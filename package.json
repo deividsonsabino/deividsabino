@@ -1,13 +1,14 @@
 {
-  "name": "blk-design-system-react",
+  "name": "deividsabino",
   "version": "1.1.0",
-  "description": "React version of BLK Design System by Creative Tim",
+  "description": "Sobre mim",
+  "homepage": "https://dualshockmaster.github.io/deividsabino",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/blk-design-system-react.git"
+    "url": "https://github.com/dualshockmaster/deividsabino.git"
   },
   "engines": {
-     "node": "12.16.1"
+    "node": "12.16.1"
   },
   "keywords": [
     "react",
@@ -27,12 +28,11 @@
     "blk-design-system",
     "blk-design-system-react"
   ],
-  "author": "Creative Tim",
+  "author": "Deivid Sabino",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/blk-design-system-react/issues"
+    "url": ""
   },
-  "homepage": "https://demos.creative-tim.com/blk-design-system-react/#/",
   "dependencies": {
     "chart.js": "2.9.3",
     "classnames": "2.2.6",
@@ -55,6 +55,7 @@
     "reactstrap": "8.4.1"
   },
   "scripts": {
+    "deploy" : "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
     "test": "react-scripts test",
@@ -76,5 +77,8 @@
   "optionalDependencies": {
     "eslint-plugin-flowtype": "3.13.0",
     "typescript": "3.8.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
