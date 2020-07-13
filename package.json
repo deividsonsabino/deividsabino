@@ -1,13 +1,12 @@
 {
-  "name": "deividsabino",
+  "name": "blk-design-system-react",
   "version": "1.1.0",
-  "description": "Sobre mim",
+  "description": "React version of BLK Design System by Creative Tim",
   "main": "index.js",
   "repository": {
-    "type": "module",
-    "url": ""
+    "type": "git",
+    "url": "git+https://github.com/creativetimofficial/blk-design-system-react.git"
   },
-  "type": "module",
   "keywords": [
     "react",
     "reactjs",
