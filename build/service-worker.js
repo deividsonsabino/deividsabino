@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/blk-design-system-react/precache-manifest.4aa32cb760e919ead5a2b1b5cb8aa720.js"
+  "/blk-design-system-react/precache-manifest.527692eee10d80ff2ed5172abb47dc3c.js"
 );
 
 self.addEventListener('message', (event) => {
