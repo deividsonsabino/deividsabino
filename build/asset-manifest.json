@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/blk-design-system-react/static/css/main.2ab6e3dc.chunk.css",
+    "main.js": "/blk-design-system-react/static/js/main.39dcd9d9.chunk.js",
+    "main.js.map": "/blk-design-system-react/static/js/main.39dcd9d9.chunk.js.map",
+    "runtime-main.js": "/blk-design-system-react/static/js/runtime-main.2cfc2012.js",
+    "runtime-main.js.map": "/blk-design-system-react/static/js/runtime-main.2cfc2012.js.map",
+    "static/js/2.4f66b311.chunk.js": "/blk-design-system-react/static/js/2.4f66b311.chunk.js",
+    "static/js/2.4f66b311.chunk.js.map": "/blk-design-system-react/static/js/2.4f66b311.chunk.js.map",
+    "index.html": "/blk-design-system-react/index.html",
+    "precache-manifest.4aa32cb760e919ead5a2b1b5cb8aa720.js": "/blk-design-system-react/precache-manifest.4aa32cb760e919ead5a2b1b5cb8aa720.js",
+    "service-worker.js": "/blk-design-system-react/service-worker.js",
+    "static/css/main.2ab6e3dc.chunk.css.map": "/blk-design-system-react/static/css/main.2ab6e3dc.chunk.css.map",
+    "static/js/2.4f66b311.chunk.js.LICENSE.txt": "/blk-design-system-react/static/js/2.4f66b311.chunk.js.LICENSE.txt",
+    "static/js/main.39dcd9d9.chunk.js.LICENSE.txt": "/blk-design-system-react/static/js/main.39dcd9d9.chunk.js.LICENSE.txt",
+    "static/media/deivid-331.png": "/blk-design-system-react/static/media/deivid-331.d6e3cb3e.png",
+    "static/media/deividsabinogames-01.png": "/blk-design-system-react/static/media/deividsabinogames-01.8624a0c3.png",
+    "static/media/dots.png": "/blk-design-system-react/static/media/dots.b81dabc0.png",
+    "static/media/dslogo.png": "/blk-design-system-react/static/media/dslogo.fec4a3ab.png",
+    "static/media/jogandocast-01.png": "/blk-design-system-react/static/media/jogandocast-01.c006294c.png",
+    "static/media/jogandocast-02.png": "/blk-design-system-react/static/media/jogandocast-02.caea7969.png",
+    "static/media/nucleo-icons.css": "/blk-design-system-react/static/media/nucleo.f0b489a5.woff",
+    "static/media/path4.png": "/blk-design-system-react/static/media/path4.e37326c7.png",
+    "static/media/skate-01.jpg": "/blk-design-system-react/static/media/skate-01.d6499415.jpg",
+    "static/media/skate-02.jpg": "/blk-design-system-react/static/media/skate-02.e5a9826c.jpg",
+    "static/media/skate-03.jpg": "/blk-design-system-react/static/media/skate-03.30c130c0.jpg",
+    "static/media/blk-design-system-react.scss?v=1.1.0": "/blk-design-system-react/static/media/square5.ff004a0e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cfc2012.js",
+    "static/js/2.4f66b311.chunk.js",
+    "static/css/main.2ab6e3dc.chunk.css",
+    "static/js/main.39dcd9d9.chunk.js"
+  ]
+}
