@@ -34,7 +34,7 @@
     "url": ""
   },
   "dependencies": {
-    "chart.js": "2.9.3",
+    "chart.js": "2.9.4",
     "classnames": "2.2.6",
     "express": "^4.17.1",
     "express-favicon": "^2.0.1",
